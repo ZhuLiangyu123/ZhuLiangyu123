@@ -1,6 +1,12 @@
 <h1 align="center"> Hi 👋, I'm LiangyuZhu </h1>
 
-# Welcome to my github page!
+## Welcome to my github page!
+
+👨‍🎓 I'm now a PhD student from Xi'an Research Institute of High-Tech.
+
+📖 My researches focus on deep Learning and its applications to computer vision and image restoration. My current interests include diffusion model and image dehazing.
+
+📫 For academic exchange or cooperation, please feel free to email me at zhuliangyu2468@163.com
 
 <!--
 **ZhuLiangyu123/ZhuLiangyu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
