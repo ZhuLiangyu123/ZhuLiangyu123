@@ -4,7 +4,7 @@
 
 👨‍🎓 I'm now a PhD student from Xi'an Research Institute of High-Tech.
 
-📖 My researches focus on deep Learning and its applications to computer vision and image restoration. My current interests include diffusion model and image dehazing.
+📖 My researches focus on deep Learning and its applications to computer vision, image restoration and fault diagnosis. My current interests include diffusion model and image dehazing.
 
 📫 For academic exchange or cooperation, please feel free to email me at zhuliangyu2468@163.com
 
