@@ -1,4 +1,4 @@
-#  👋  Hi, I'm LiangyuZhu
+<h1 align="center"> 👋 Hi, I'm LiangyuZhu </h1>
 
 ## Welcome to my github page!
 
