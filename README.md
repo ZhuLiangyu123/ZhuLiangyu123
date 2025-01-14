@@ -1,6 +1,6 @@
-<h1 align="center"> 👋 Hi, I'm LiangyuZhu </h1>
+<h1 align="center"> Hi 👋, I'm LiangyuZhu </h1>
 
-## Welcome to my github page!
+# Welcome to my github page!
 
 <!--
 **ZhuLiangyu123/ZhuLiangyu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
